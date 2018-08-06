@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"He who dresses well has good manners"
 Use the left arrow to go back!
